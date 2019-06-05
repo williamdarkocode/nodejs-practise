@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-practise",
+  "version": "1.0.0",
+  "description": "Node Js Crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamdarkocode/nodejs-practise.git"
+  },
+  "author": "William Codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamdarkocode/nodejs-practise/issues"
+  },
+  "homepage": "https://github.com/williamdarkocode/nodejs-practise#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
